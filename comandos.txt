@@ -1,0 +1,7 @@
+Comandos Terminal Git Bash
+
+git init -> Inicializa o repositório
+
+git status -> verifica o status de track dos itens
+
+git add . -> trackeia os arquivos
