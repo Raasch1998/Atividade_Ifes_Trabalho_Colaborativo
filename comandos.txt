@@ -5,3 +5,10 @@ git init -> Inicializa o repositório
 git status -> verifica o status de track dos itens
 
 git add . -> trackeia os arquivos
+
+git config --global user.email "almeida.raasch@gmail.com" -> seta o emil do usuario
+
+git config --global user.name "vovozinha maluca" -> seta o nome do usuário
+
+git commit -m "mensagem explicativa" = comita o arquivo/Salva alterações do mesmo (tipo um indicador de que o trem tá apresentável)
+
