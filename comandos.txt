@@ -12,3 +12,19 @@ git config --global user.name "vovozinha maluca" -> seta o nome do usuário
 
 git commit -m "mensagem explicativa" = comita o arquivo/Salva alterações do mesmo (tipo um indicador de que o trem tá apresentável)
 
+git log -> coisa de X9
+
+git branch -a -> mostra as branches
+
+git checkout -b NomeDaNovaBranch -> cria uma nova branch
+
+git branch -m nome-antigo novo-nome -> renomeia a branch
+
+git clone = clona repositório via link https ou chave ssh e salva na máquina local
+
+git push -> faz upload (envia) versão local para o repositório remoto
+
+git pull -> faz download (baixa) da versão remota para o repositório local
+
+git fetch -> faz download (baixa) dos metadados da versão remota para o repositório local
+
